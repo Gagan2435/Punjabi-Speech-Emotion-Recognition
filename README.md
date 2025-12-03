@@ -1,4 +1,4 @@
-🎤 Punjabi Speech Emotion Recognition – EKC Internship (Thapar Institute)
+🎤 Punjabi Speech Emotion Recognition – ELC Internship (Thapar Institute)
 
 This project is part of the Voice Assistant System developed during the ELC Internship at Thapar Institute of Engineering & Technology, under the guidance of Dr. Aditi.
 My contribution focused on building a Punjabi Speech Emotion Detection Model that identifies emotions directly from speech patterns, not the spoken words.
