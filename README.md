@@ -104,12 +104,6 @@ Show probabilities
 
 Very useful for real-time emotion-based voice assistant systems.
 
-👩‍🏫 Guided By
-
-Dr. Aditi
-School of Computer Science & Engineering
-Thapar Institute of Engineering & Technology
-
 🙋‍♂️ My Contribution
 
 Dataset collection & organization
